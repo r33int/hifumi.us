@@ -1,0 +1,11 @@
+* {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
